@@ -1,0 +1,7 @@
+{
+    "ENV": "production",
+    "DB_HOST": "production_db_host",
+    "DB_PORT": "27017",
+    "API_BASE_URL": "https://api.example.com"
+}
+  

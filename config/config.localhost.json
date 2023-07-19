@@ -1,0 +1,14 @@
+{
+    "ENV": "localhost",
+    "DB_HOST": "localhost",
+    "DB_PORT": "27017",
+    "API_BASE_URL": "http://localhost:3000",
+    "APIKEY":"AIzaSyCLTDZXLAgquTwhVR5fuVPNIBxIkCwX4_M",
+    "AUTHDOMAIN":"musimundo-41c8f.firebaseapp.com",
+    "PROJECTID":"musimundo-41c8f",
+    "STORAGEBUCKET":"musimundo-41c8f.appspot.com",
+    "MESSAGERSENDERID": "634668376097",
+    "APPID":"1:634668376097:web:dd4351b59cc0df93a68360",
+    "MEASUREMENTID":"G-ZESVS9H402"
+}
+  
